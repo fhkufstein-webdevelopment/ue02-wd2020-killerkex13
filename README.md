@@ -11,10 +11,10 @@ Ihre Antwort: <br>HTML, CSS, JavaScript, View, Angular, React, AJAX
 ### Mit welchen Technologien (Programmiersprachen etc.) muss ein Backendentwickler typischerweise arbeiten?
 
 Ihre Antwort: <br>Datenbanksystem, Serverseitige-Programmierung <br>
-                  • PHP <br>
-                  • JSP <br>
-                  • ASP <br>
-                  • node.js <br>
+                  • PHP;
+                  • JSP;
+                  • ASP;
+                  • node.js;
                   Model,
                   Controller,
                   Schnittstellenprogrammierung,
