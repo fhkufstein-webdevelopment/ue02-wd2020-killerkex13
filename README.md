@@ -14,7 +14,7 @@ Ihre Antwort: <br>Datenbanksystem, Serverseitige-Programmierung <br>
                   • PHP;
                   • JSP;
                   • ASP;
-                  • node.js;
+                  • node.js; <br>
                   Model,
                   Controller,
                   Schnittstellenprogrammierung,
